@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Madesh P</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:4F46E5&height=220&section=header&text=Madesh%20P&fontSize=70&fontColor=ffffff"/>
