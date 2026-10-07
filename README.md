@@ -160,5 +160,5 @@ ESP32 • Arduino • GSM • GPS • IoT
 
 ---
 
-<h3 align="center">⭐ Building Scalable Software Solutions & AI Applications ⭐</h3>
+
 ```
